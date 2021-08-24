@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task2</string>
+
+    <string name="enter_name">enter name</string>
+    <string name="zuri_logo">zuri_logo</string>
+    <string name="submit">submit</string>
+    <string name="kindly_enter_your_information_below"> kindly enter your information below</string>
+    <string name="enter_your_name_here">enter your name here</string>
+    <string name="click_the_link_to_visit_zuri">click the link <a href="https://internship.zuri.team">to visit Zuri</a></string>
+</resources>
